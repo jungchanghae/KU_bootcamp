@@ -3,4 +3,7 @@
 
 ---
 
-day1[link]{}
+## day1
+1. [Linux](/documents/Linux.md) - 수정 예정
+2. [IDE](/documents/IDE.md) - 추가 예정
+3. [SSH](/documents/SSH.md)
