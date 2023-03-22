@@ -38,7 +38,7 @@ git config --global -e
 ## Overview
 ![git](../png/git.png)
 
-## Advanced topics
+## 나중에 추가로 정리할 topic
 - `.gitignore`
 - Conflict? Not a problem!
 - Stashing
