@@ -11,5 +11,4 @@
 
 ## day2
 
-1. [git]()
-2. [github]()
+1. [git & github](/documents/github.md)
