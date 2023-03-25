@@ -38,3 +38,7 @@ VSCode는 프로그래밍에 도움을 줄 수 있는 수많은 확장 기능이
 
 `control + ~`
 - VSCODE에 터미널 창을 띄우기 위해 사용합니다.
+
+ `command + shift + P`
+ - `Remote-SHH`를 이용하여 SSH 주소를 등록할 수 있다.
+ - `Dev Containers: attach * `를 이용해 docker Container를 이용할 수 있다.
