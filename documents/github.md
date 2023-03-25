@@ -16,9 +16,8 @@ git config --global user.email=thisisfake@email.com
 git config --global -e
 ```
 
-그 후 repogitory를 clone하여 github의 파일에 접근한다.
-
-(나중에 사용해보고 추가 해야함)
+`git clone`을 통해 편집하고자 하는 repogitory를 local에서 작업한다.  
+그 후 `git push`를 통해 github에 다시 업데이트를 하면 된다.  
 
 ## 용어 정리
 
