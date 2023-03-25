@@ -89,6 +89,10 @@ sudo usermod -aG docker $USER
 
 ## Docker commands I(frequently used)
 
+<details>
+<summary>Show contents</summary>
+<div markdown="1">
+
 - `run` : docker image로부터 container를 만들 때 사용
 
   - options (frequently used)
@@ -133,6 +137,9 @@ docker cp [호스트의 파일] [컨테이너 이름]:[이동할 장소]
 ```sh
 docker logs Container name
 ```
+ 
+</details>
+</div>
 
 ## Docker Commands II (docker image 관련)
 
